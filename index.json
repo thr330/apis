@@ -132,6 +132,13 @@
     "documentationURL": "https://fit-connect.fitko.de/",
     "githubURL": "https://git.fitko.de/fit-connect"
 
+  },
+  {
+    "name": "Pflanzenschutzmittelzulassungsdaten",
+    "office": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVL)",
+    "description": "Informationen über die in Deutschland zugelassenen Pflanzenschutzmittel.",
+    "documentationURL": "https://psm-api.bvl.bund.de",
+    "githubURL": null
   }
 
 
